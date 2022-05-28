@@ -1,4 +1,2 @@
-let msg = 'hello'
-console.log(msg)
-msg += ' world';
+let msg = 'hello world branch'
 console.log(msg)
